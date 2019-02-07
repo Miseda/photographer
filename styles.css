@@ -1,0 +1,14 @@
+.column {
+  float: left;
+  width: 30%;
+}
+body {
+  background-color: grey;
+}
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+}
